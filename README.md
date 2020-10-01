@@ -3,7 +3,7 @@
  
 <p align="center"><a href="https://www.youracclaim.com/badges/caff8409-5b20-495b-bc89-94470e96b0db" target="_blank"><img src="https://images.youracclaim.com/size/340x340/images/48e73336-c91d-477f-a66f-3ad950acb597/Adobe_Certified_Professional_Experience_Cloud_products_Digital_Badge.png" width="200" /></a></p>
 
-<p align="center">💻<strong>Magento Professional Certified</strong> Developer</p>
+<p align="center"><strong>Magento Professional Certified Developer</strong></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiftenterdev&show_icons=true" alt="shiftenterdev" /></p>
 
